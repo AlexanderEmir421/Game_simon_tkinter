@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Ailen",
+        "puntos": 2,
+        "fecha": "2024-06-24",
+        "hora": "17:06:36",
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "Ailen",
+        "puntos": 2,
+        "fecha": "2024-06-24",
+        "hora": "17:06:57",
+        "nivel": "SuperExperto"
+    },
+    {
+        "nombre": "k",
+        "puntos": 2,
+        "fecha": "2024-06-24",
+        "hora": "18:50:19",
+        "nivel": "SuperExperto"
+    },
+    {
+        "nombre": "Malena",
+        "puntos": 1,
+        "fecha": "2024-06-24",
+        "hora": "19:21:00",
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "Malena",
+        "puntos": 1,
+        "fecha": "2024-06-24",
+        "hora": "19:21:21",
+        "nivel": "SuperExperto"
+    }
+]
